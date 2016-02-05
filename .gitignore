@@ -33,5 +33,11 @@ build/
 # .ruby-gemset
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
-.rvmrc
+_site
+.sass-cache
+.DS_Store
+
+# Ignore the config file that's used for gh-pages.
+_config.gh-pages.yml
+
 

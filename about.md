@@ -1,20 +1,22 @@
 ---
 layout: page
-title: About Pixyll
+title: About Lean Writing
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This site is ....
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+{% comment %} This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com) {% endcomment %}
+{% comment %} ([@4lpine](https://twitter.com/4lpine)). {% endcomment %}
 
-Thanks to the following:
+{% comment %} Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it, {% endcomment %}
+{% comment %} request a feature, report a bug, or contribute. It's free, and open source {% endcomment %}
+{% comment %} ([MIT](http://opensource.org/licenses/MIT)). {% endcomment %}
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+{% comment %} Thanks to the following: {% endcomment %}
+
+{% comment %} * [BASSCSS](http://basscss.com) {% endcomment %}
+{% comment %} * [Jekyll](http://jekyllrb.com) {% endcomment %}
+{% comment %} * [Refills](http://refills.bourbon.io/) {% endcomment %}
+{% comment %} * [Type Scale](http://type-scale.com/) {% endcomment %}
